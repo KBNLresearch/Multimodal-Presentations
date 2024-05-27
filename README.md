@@ -1,7 +1,7 @@
-#Readme
 This set of e-book and audiobook files was created by Marre Westerbeek, student translation sciences of Leiden University during her internship at KB.
 The idea was to create different versions of an e-book, to see how these relate and potentially could be presented in parallel.
 As original text, Marre choose a poem: "Mending Wall" by Robert Frost.
+
 From this were made:
 1. a translated version in Dutch
 2. an audiobook version narrated by Marre herself
