@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Narrator Studio 1.60.2512" Samplerate="44100" Time="03:17.584">
+    <Info Source="The Word document was used as the source for page numbers." OriginalPath="C:\Users\Win10\Desktop\Mending_Wall.epub" Title="Mending Wall" Date="2024-03-05" BaseFile="0ae7e8-bb36-4b24-a0f2-047dbc06aa57" Language="en-us" Creator="Marre" MultimediaType="audioFullText" Identifier="urn:uuid:dd0ae7e8-bb36-4b24-a0f2-047dbc06aa57"/>
+    <AudioPool Path="Mending_Wall met timestamps en de rest Files" Location="C:\Users\Win10\Desktop\map voor git hub deliverables\epubs met audio\hindenburg sessies\EN voorgelezen Marre">
+        <File Id="1" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 5.wav" Duration="17.470" Leq="-36.3" Dyn="0.42"/>
+        <File Id="2" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 6.wav" Duration="05.750" Leq="-36.9" Dyn="0.47"/>
+        <File Id="3" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 7.wav" Duration="05.850" Leq="-35.8" Dyn="0.21"/>
+        <File Id="4" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 8.wav" Duration="04.560" Leq="-36.7" Dyn="0.77"/>
+        <File Id="5" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 11.wav" Duration="03.940" Leq="-38.8" Dyn="0.45"/>
+        <File Id="6" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 12.wav" Duration="04.450" Leq="-37.1" Dyn="0.49"/>
+        <File Id="7" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 14.wav" Duration="05.320" Leq="-37.6" Dyn="0.33"/>
+        <File Id="8" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 15.wav" Duration="03.940" Leq="-35.4" Dyn="0.14"/>
+        <File Id="9" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 18.wav" Duration="06.990" Leq="-34.6" Dyn="0.82"/>
+        <File Id="10" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 19.wav" Duration="07.050" Leq="-34.5" Dyn="0.57"/>
+        <File Id="11" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 20.wav" Duration="04.630" Leq="-36.3" Dyn="0.23"/>
+        <File Id="12" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 21.wav" Duration="03.630" Leq="-35.5" Dyn="0.31"/>
+        <File Id="13" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 22.wav" Duration="03.920" Leq="-36.8" Dyn="0.28"/>
+        <File Id="14" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 24.wav" Duration="03.700" Leq="-37.6" Dyn="0.13"/>
+        <File Id="15" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 25.wav" Duration="03.540" Leq="-36.9" Dyn="0.26"/>
+        <File Id="16" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 26.wav" Duration="04.600" Leq="-37.3" Dyn="0.23"/>
+        <File Id="17" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 27.wav" Duration="04.120" Leq="-34.6" Dyn="0.23"/>
+        <File Id="18" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 28.wav" Duration="04.070" Leq="-34.3" Dyn="0.40"/>
+        <File Id="19" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 29.wav" Duration="04.080" Leq="-33.2" Dyn="0.40"/>
+        <File Id="20" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 30.wav" Duration="03.850" Leq="-34.4" Dyn="0.43"/>
+        <File Id="21" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 31.wav" Duration="03.870" Leq="-35.6" Dyn="0.49"/>
+        <File Id="22" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 32.wav" Duration="04.920" Leq="-37.0" Dyn="0.61"/>
+        <File Id="23" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 33.wav" Duration="06.000" Leq="-34.4" Dyn="0.78"/>
+        <File Id="24" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 34.wav" Duration="04.070" Leq="-37.9" Dyn="0.68"/>
+        <File Id="25" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 35.wav" Duration="03.130" Leq="-36.6" Dyn="0.41"/>
+        <File Id="26" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 36.wav" Duration="04.800" Leq="-39.9" Dyn="0.51"/>
+        <File Id="27" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 37.wav" Duration="06.370" Leq="-35.9" Dyn="0.85"/>
+        <File Id="28" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 38.wav" Duration="04.150" Leq="-36.5" Dyn="0.12"/>
+        <File Id="29" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 39.wav" Duration="04.210" Leq="-36.1" Dyn="0.38"/>
+        <File Id="30" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 40.wav" Duration="04.270" Leq="-34.7" Dyn="0.76"/>
+        <File Id="31" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 42.wav" Duration="04.300" Leq="-36.0" Dyn="0.65"/>
+        <File Id="32" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 43.wav" Duration="03.820" Leq="-35.7" Dyn="0.40"/>
+        <File Id="33" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 44.wav" Duration="03.640" Leq="-36.7" Dyn="0.53"/>
+        <File Id="34" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 45.wav" Duration="03.770" Leq="-38.5" Dyn="0.63"/>
+        <File Id="35" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 46.wav" Duration="04.430" Leq="-37.0" Dyn="0.26"/>
+        <File Id="36" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 47.wav" Duration="05.940" Leq="-36.7" Dyn="0.54"/>
+        <File Id="37" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 48.wav" Duration="04.010" Leq="-38.0" Dyn="0.46"/>
+        <File Id="38" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 49.wav" Duration="04.420" Leq="-35.1" Dyn="0.76"/>
+        <File Id="39" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 50.wav" Duration="03.860" Leq="-36.2" Dyn="0.51"/>
+        <File Id="40" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 51.wav" Duration="04.710" Leq="-36.9" Dyn="1.23"/>
+        <File Id="41" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 52.wav" Duration="04.040" Leq="-33.7" Dyn="0.41"/>
+        <File Id="42" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 53.wav" Duration="05.230" Leq="-36.6" Dyn="0.48"/>
+        <File Id="43" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 54.wav" Duration="03.930" Leq="-36.1" Dyn="0.27"/>
+        <File Id="44" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 55.wav" Duration="03.930" Leq="-36.9" Dyn="0.25"/>
+        <File Id="45" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 56.wav" Duration="05.700" Leq="-40.8" Dyn="0.61"/>
+        <File Id="46" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 57.wav" Duration="04.020" Leq="-18.6" Dyn="0.23"/>
+        <File Id="47" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 58.wav" Duration="04.580" Leq="-13.7" Dyn="0.20"/>
+        <File Id="48" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 60.wav" Duration="05.900" Leq="-17.8" Dyn="0.27"/>
+    </AudioPool>
+    <Tracks>
+        <Track Name="Spoor 2"/>
+        <Track Name="Narration" Rec="1">
+            <Region Ref="46" Name="0ae7e8-bb36-4b24-a0f2-047dbc06aa57 57" Length="03.950" Gain="-4.4"/>
+            <Region Ref="47" Name="Mending Wall" Start="03.950" Length="04.450" Gain="-4.0"/>
+            <Region Ref="48" Name="By Robert Frost" Start="08.958" Length="05.290" Offset="00.555" Gain="-5.2"/>
+            <Region Ref="1" Name="By Robert Frost" Start="14.248" Length="04.202" Offset="00.248" Gain="3.0"/>
+            <Region Ref="2" Name="By Robert Frost" Start="18.450" Length="03.814" Offset="01.004"/>
+            <Region Ref="3" Name="By Robert Frost" Start="22.264" Length="03.273" Offset="00.653"/>
+            <Region Ref="4" Name="By Robert Frost" Start="25.600" Length="04.498"/>
+            <Region Ref="5" Name="By Robert Frost" Start="30.098" Length="03.681" Offset="00.005"/>
+            <Region Ref="6" Name="By Robert Frost" Start="33.779" Length="03.971" Offset="00.002"/>
+            <Region Ref="7" Name="By Robert Frost" Start="37.750" Length="04.364" Offset="00.902"/>
+            <Region Ref="8" Name="By Robert Frost" Start="42.114" Length="03.486"/>
+            <Region Ref="9" Name="By Robert Frost" Start="45.600" Length="06.275" Offset="00.659"/>
+            <Region Ref="10" Name="By Robert Frost" Start="51.875" Length="04.125" Offset="00.001"/>
+            <Region Ref="11" Name="By Robert Frost" Start="56.000" Length="04.569" Offset="00.004"/>
+            <Region Ref="12" Name="By Robert Frost" Start="01:00.569" Length="03.572"/>
+            <Region Ref="13" Name="By Robert Frost" Start="01:04.141" Length="03.809"/>
+            <Region Ref="14" Name="By Robert Frost" Start="01:07.950" Length="03.643" Offset="00.004"/>
+            <Region Ref="15" Name="By Robert Frost" Start="01:11.593" Length="03.488"/>
+            <Region Ref="16" Name="By Robert Frost" Start="01:15.081" Length="04.546"/>
+            <Region Ref="17" Name="By Robert Frost" Start="01:19.627" Length="04.067" Offset="00.002"/>
+            <Region Ref="18" Name="By Robert Frost" Start="01:23.694" Length="04.015" Offset="00.002"/>
+            <Region Ref="19" Name="By Robert Frost" Start="01:27.709" Length="04.019"/>
+            <Region Ref="20" Name="By Robert Frost" Start="01:31.728" Length="03.794" Offset="00.003"/>
+            <Region Ref="21" Name="By Robert Frost" Start="01:35.522" Length="03.814"/>
+            <Region Ref="22" Name="By Robert Frost" Start="01:39.336" Length="04.865" Offset="00.005"/>
+            <Region Ref="23" Name="By Robert Frost" Start="01:44.201" Length="04.749" Offset="00.001"/>
+            <Region Ref="24" Name="By Robert Frost" Start="01:48.950" Length="04.011"/>
+            <Region Ref="25" Name="By Robert Frost" Start="01:52.961" Length="02.874"/>
+            <Region Ref="26" Name="By Robert Frost" Start="01:55.900" Length="04.550"/>
+            <Region Ref="27" Name="By Robert Frost" Start="02:00.450" Length="06.315" Offset="00.001"/>
+            <Region Ref="28" Name="By Robert Frost" Start="02:06.765" Length="04.087" Offset="00.003"/>
+            <Region Ref="29" Name="By Robert Frost" Start="02:10.852" Length="03.348"/>
+            <Region Ref="30" Name="By Robert Frost" Start="02:14.200" Length="04.216"/>
+            <Region Ref="31" Name="By Robert Frost" Start="02:18.450" Length="04.245"/>
+            <Region Ref="32" Name="By Robert Frost" Start="02:22.695" Length="03.764" Offset="00.001"/>
+            <Region Ref="33" Name="By Robert Frost" Start="02:26.459" Length="03.588" Offset="00.003"/>
+            <Region Ref="34" Name="By Robert Frost" Start="02:30.047" Length="03.715" Offset="00.001"/>
+            <Region Ref="35" Name="By Robert Frost" Start="02:33.762" Length="04.379"/>
+            <Region Ref="36" Name="By Robert Frost" Start="02:38.141" Length="05.875"/>
+            <Region Ref="37" Name="By Robert Frost" Start="02:44.016" Length="03.858" Offset="00.004"/>
+            <Region Ref="38" Name="By Robert Frost" Start="02:47.900" Length="04.365"/>
+            <Region Ref="39" Name="By Robert Frost" Start="02:52.265" Length="03.800"/>
+            <Region Ref="40" Name="By Robert Frost" Start="02:56.065" Length="04.647"/>
+            <Region Ref="41" Name="By Robert Frost" Start="03:00.712" Length="03.989" Offset="00.001"/>
+            <Region Ref="42" Name="By Robert Frost" Start="03:04.701" Length="05.176" Offset="00.003"/>
+            <Region Ref="43" Name="By Robert Frost" Start="03:09.877" Length="03.876" Offset="00.003"/>
+            <Region Ref="44" Name="By Robert Frost" Start="03:13.753" Length="03.866"/>
+            <Region Ref="45" Name="By Robert Frost" Start="03:17.619" Length="05.649" Offset="00.001"/>
+        </Track>
+    </Tracks>
+    <Clipboard>
+        <Group Caption="Groep 1"/>
+        <Group Caption="Groep 2"/>
+        <Group Caption="Groep 3"/>
+        <Group Caption="Groep 4"/>
+    </Clipboard>
+    <Markers>
+        <Marker Id="1" Name="In" Time="00.000"/>
+        <Marker Id="2" Name="Uit" Time="01.350"/>
+    </Markers>
+    <Document File="Document.xhtml" DocPath="C:\Users\Win10\Desktop\map voor git hub deliverables\epubs met audio\hindenburg sessies\EN voorgelezen Marre\Mending_Wall met timestamps en de rest Files/Document.xhtml"/>
+    <TextItems>
+        <TextItem Name="H1" State="1">
+            <h1>Header 1</h1>
+        </TextItem>
+        <TextItem Name="H2" State="1">
+            <h2>Header 2</h2>
+        </TextItem>
+        <TextItem Name="H3" State="1">
+            <h3>Header 3</h3>
+        </TextItem>
+        <TextItem Name="H4">
+            <h4>Header 4</h4>
+        </TextItem>
+        <TextItem Name="H5">
+            <h5>Header 5</h5>
+        </TextItem>
+        <TextItem Name="H6">
+            <h6>Header 6</h6>
+        </TextItem>
+        <TextItem Name="P" State="1">
+            <p>...</p>
+        </TextItem>
+        <TextItem Name="Page" State="1">
+            <span class="pagenum">#</span>
+        </TextItem>
+    </TextItems>
+    <NavPoints>
+        <NavPoint Id="hix00001" Begin="00.000"/>
+        <NavPoint Id="hix00066" Begin="03.950"/>
+        <NavPoint Id="hix00054" Begin="08.408"/>
+        <NavPoint Id="hix00004" Begin="14.000"/>
+        <NavPoint Id="hix00056" Begin="18.450"/>
+        <NavPoint Id="hix00005" Begin="22.300"/>
+        <NavPoint Id="hix00006" Begin="25.600"/>
+        <NavPoint Id="hix00007" Begin="30.098"/>
+        <NavPoint Id="hix00008" Begin="33.900"/>
+        <NavPoint Id="hix00009" Begin="37.738"/>
+        <NavPoint Id="hix00010" Begin="42.114"/>
+        <NavPoint Id="hix00011" Begin="45.700"/>
+        <NavPoint Id="hix00012" Begin="51.875"/>
+        <NavPoint Id="hix00013" Begin="56.000"/>
+        <NavPoint Id="hix00014" Begin="01:00.569"/>
+        <NavPoint Id="hix00015" Begin="01:04.141"/>
+        <NavPoint Id="hix00016" Begin="01:07.950"/>
+        <NavPoint Id="hix00017" Begin="01:11.593"/>
+        <NavPoint Id="hix00018" Begin="01:15.081"/>
+        <NavPoint Id="hix00019" Begin="01:19.627"/>
+        <NavPoint Id="hix00020" Begin="01:23.694"/>
+        <NavPoint Id="hix00021" Begin="01:27.709"/>
+        <NavPoint Id="hix00022" Begin="01:31.728"/>
+        <NavPoint Id="hix00023" Begin="01:35.522"/>
+        <NavPoint Id="hix00024" Begin="01:39.336"/>
+        <NavPoint Id="hix00025" Begin="01:44.201"/>
+        <NavPoint Id="hix00026" Begin="01:48.950"/>
+        <NavPoint Id="hix00027" Begin="01:52.961"/>
+        <NavPoint Id="hix00028" Begin="01:55.900"/>
+        <NavPoint Id="hix00029" Begin="02:00.450"/>
+        <NavPoint Id="hix00030" Begin="02:06.765"/>
+        <NavPoint Id="hix00031" Begin="02:10.852"/>
+        <NavPoint Id="hix00032" Begin="02:14.200"/>
+        <NavPoint Id="hix00033" Begin="02:18.416"/>
+        <NavPoint Id="hix00034" Begin="02:22.695"/>
+        <NavPoint Id="hix00035" Begin="02:26.459"/>
+        <NavPoint Id="hix00036" Begin="02:30.047"/>
+        <NavPoint Id="hix00037" Begin="02:33.762"/>
+        <NavPoint Id="hix00038" Begin="02:38.141"/>
+        <NavPoint Id="hix00039" Begin="02:44.016"/>
+        <NavPoint Id="hix00040" Begin="02:47.900"/>
+        <NavPoint Id="hix00041" Begin="02:52.265"/>
+        <NavPoint Id="hix00042" Begin="02:56.065"/>
+        <NavPoint Id="hix00043" Begin="03:00.712"/>
+        <NavPoint Id="hix00044" Begin="03:04.701"/>
+        <NavPoint Id="hix00045" Begin="03:09.877"/>
+        <NavPoint Id="hix00046" Begin="03:13.753"/>
+        <NavPoint Id="hix00047" Begin="03:17.619" End="03:23.268"/>
+    </NavPoints>
+</Session>

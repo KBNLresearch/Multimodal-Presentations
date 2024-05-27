@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Narrator Studio 1.60.2512" Samplerate="44100" Time="02:21.794">
+    <Info Source="The Word document was used as the source for page numbers." OriginalPath="C:\Users\Win10\Desktop\stage KB\gedicht_Robert_Frost_Mending_Wall_NL_vertaling.epub" Title="gedicht Robert Frost Mending Wall NL vertaling" Date="2024-03-18" BaseFile="6eda257f-5663-489c-b451-7400c0370b90" Language="nl-nl" Creator="Marre" MultimediaType="audioFullText" Identifier="urn:uuid:6eda257f-5663-489c-b451-7400c0370b90"/>
+    <AudioPool Path="gedicht_Robert_Frost_Mending_Wall_NL_vertaling Files" Location="C:\Users\Win10\Desktop\allerlaaste">
+        <File Id="1" Name="6eda257f-5663-489c-b451-7400c0370b90.wav" Duration="03.660" Leq="-16.5" Dyn="0.13"/>
+        <File Id="2" Name="6eda257f-5663-489c-b451-7400c0370b90 1.wav" Duration="05.660" Leq="-17.3" Dyn="0.57"/>
+        <File Id="3" Name="6eda257f-5663-489c-b451-7400c0370b90 3.wav" Duration="03.810" Leq="-18.0" Dyn="0.61"/>
+        <File Id="4" Name="6eda257f-5663-489c-b451-7400c0370b90 4.wav" Duration="02.820" Leq="-19.0" Dyn="0.33"/>
+        <File Id="5" Name="6eda257f-5663-489c-b451-7400c0370b90 5.wav" Duration="03.170" Leq="-21.1" Dyn="0.58"/>
+        <File Id="6" Name="6eda257f-5663-489c-b451-7400c0370b90 6.wav" Duration="03.500" Leq="-16.0" Dyn="0.13"/>
+        <File Id="7" Name="6eda257f-5663-489c-b451-7400c0370b90 7.wav" Duration="03.890" Leq="-17.5" Dyn="0.36"/>
+        <File Id="8" Name="6eda257f-5663-489c-b451-7400c0370b90 9.wav" Duration="03.230" Leq="-16.6" Dyn="0.14"/>
+        <File Id="9" Name="6eda257f-5663-489c-b451-7400c0370b90 10.wav" Duration="03.650" Leq="-19.2" Dyn="0.38"/>
+        <File Id="10" Name="6eda257f-5663-489c-b451-7400c0370b90 11.wav" Duration="03.740" Leq="-18.1" Dyn="0.43"/>
+        <File Id="11" Name="6eda257f-5663-489c-b451-7400c0370b90 12.wav" Duration="03.770" Leq="-18.7" Dyn="0.61"/>
+        <File Id="12" Name="6eda257f-5663-489c-b451-7400c0370b90 13.wav" Duration="04.330" Leq="-15.9" Dyn="0.32"/>
+        <File Id="13" Name="6eda257f-5663-489c-b451-7400c0370b90 14.wav" Duration="03.890" Leq="-17.1" Dyn="0.24"/>
+        <File Id="14" Name="6eda257f-5663-489c-b451-7400c0370b90 15.wav" Duration="04.780" Leq="-17.3"/>
+        <File Id="15" Name="6eda257f-5663-489c-b451-7400c0370b90 16.wav" Duration="03.770" Leq="-16.6" Dyn="0.25"/>
+        <File Id="16" Name="6eda257f-5663-489c-b451-7400c0370b90 17.wav" Duration="05.590" Leq="-17.4" Dyn="1.16"/>
+        <File Id="17" Name="6eda257f-5663-489c-b451-7400c0370b90 18.wav" Duration="04.050" Leq="-16.8" Dyn="0.29"/>
+        <File Id="18" Name="6eda257f-5663-489c-b451-7400c0370b90 19.wav" Duration="05.130" Leq="-17.7" Dyn="0.36"/>
+        <File Id="19" Name="6eda257f-5663-489c-b451-7400c0370b90 20.wav" Duration="03.410" Leq="-17.4" Dyn="0.27"/>
+        <File Id="20" Name="6eda257f-5663-489c-b451-7400c0370b90 21.wav" Duration="04.780" Leq="-17.7" Dyn="0.29"/>
+        <File Id="21" Name="6eda257f-5663-489c-b451-7400c0370b90 22.wav" Duration="03.820" Leq="-16.6" Dyn="0.12"/>
+        <File Id="22" Name="6eda257f-5663-489c-b451-7400c0370b90 23.wav" Duration="04.150" Leq="-15.3" Dyn="0.34"/>
+        <File Id="23" Name="6eda257f-5663-489c-b451-7400c0370b90 24.wav" Duration="04.480" Leq="-17.2" Dyn="0.31"/>
+        <File Id="24" Name="6eda257f-5663-489c-b451-7400c0370b90 25.wav" Duration="04.230" Leq="-16.0" Dyn="0.44"/>
+        <File Id="25" Name="6eda257f-5663-489c-b451-7400c0370b90 26.wav" Duration="04.200" Leq="-17.0" Dyn="0.66"/>
+        <File Id="26" Name="6eda257f-5663-489c-b451-7400c0370b90 27.wav" Duration="03.710" Leq="-14.9" Dyn="0.25"/>
+        <File Id="27" Name="6eda257f-5663-489c-b451-7400c0370b90 29.wav" Duration="03.860" Leq="-18.6" Dyn="0.24"/>
+        <File Id="28" Name="6eda257f-5663-489c-b451-7400c0370b90 30.wav" Duration="03.570" Leq="-16.7" Dyn="0.26"/>
+        <File Id="29" Name="6eda257f-5663-489c-b451-7400c0370b90 31.wav" Duration="04.200" Leq="-18.8" Dyn="0.44"/>
+        <File Id="30" Name="6eda257f-5663-489c-b451-7400c0370b90 32.wav" Duration="05.560" Leq="-17.6" Dyn="0.33"/>
+        <File Id="31" Name="6eda257f-5663-489c-b451-7400c0370b90 33.wav" Duration="04.960" Leq="-17.4" Dyn="0.37"/>
+        <File Id="32" Name="6eda257f-5663-489c-b451-7400c0370b90 34.wav" Duration="04.300" Leq="-16.8" Dyn="0.43"/>
+        <File Id="33" Name="6eda257f-5663-489c-b451-7400c0370b90 35.wav" Duration="04.140" Leq="-15.2" Dyn="0.73"/>
+        <File Id="34" Name="6eda257f-5663-489c-b451-7400c0370b90 36.wav" Duration="04.960" Leq="-17.5" Dyn="0.19"/>
+        <File Id="35" Name="6eda257f-5663-489c-b451-7400c0370b90 37.wav" Duration="04.080" Leq="-15.7" Dyn="0.34"/>
+        <File Id="36" Name="6eda257f-5663-489c-b451-7400c0370b90 38.wav" Duration="04.000" Leq="-16.8" Dyn="0.23"/>
+        <File Id="37" Name="6eda257f-5663-489c-b451-7400c0370b90 39.wav" Duration="03.320" Leq="-17.6" Dyn="0.42"/>
+        <File Id="38" Name="6eda257f-5663-489c-b451-7400c0370b90 40.wav" Duration="03.020" Leq="-15.5" Dyn="0.46"/>
+        <File Id="39" Name="6eda257f-5663-489c-b451-7400c0370b90 41.wav" Duration="06.080" Leq="-18.3" Dyn="0.53"/>
+        <File Id="40" Name="6eda257f-5663-489c-b451-7400c0370b90 42.wav" Duration="03.880" Leq="-18.4" Dyn="0.30"/>
+        <File Id="41" Name="6eda257f-5663-489c-b451-7400c0370b90 43.wav" Duration="04.940" Leq="-16.0" Dyn="0.38"/>
+        <File Id="42" Name="6eda257f-5663-489c-b451-7400c0370b90 44.wav" Duration="03.760" Leq="-14.8" Dyn="0.37"/>
+        <File Id="43" Name="6eda257f-5663-489c-b451-7400c0370b90 45.wav" Duration="05.740" Leq="-15.9" Dyn="0.24"/>
+        <File Id="44" Name="6eda257f-5663-489c-b451-7400c0370b90 46.wav" Duration="03.580" Leq="-15.9" Dyn="0.39"/>
+        <File Id="45" Name="6eda257f-5663-489c-b451-7400c0370b90 47.wav" Duration="04.420" Leq="-17.1" Dyn="0.31"/>
+        <File Id="46" Name="6eda257f-5663-489c-b451-7400c0370b90 48.wav" Duration="04.110" Leq="-15.5" Dyn="0.11"/>
+        <File Id="47" Name="6eda257f-5663-489c-b451-7400c0370b90 52.wav" Duration="04.370" Leq="-16.9" Dyn="0.42"/>
+        <File Id="48" Name="6eda257f-5663-489c-b451-7400c0370b90 53.wav" Duration="06.070" Leq="-17.1" Dyn="0.57"/>
+    </AudioPool>
+    <Tracks>
+        <Track Name="Narration" Rec="1">
+            <Region Ref="1" Name="1" Length="03.597" Offset="00.003" Gain="-6.5"/>
+            <Region Ref="2" Name="Het repareren van de muur – Robert Fro..." Start="03.597" Length="05.596" Gain="-3.7"/>
+            <Region Ref="3" Name="Vertaald door Marre Westerbeek" Start="09.200" Length="03.746" Gain="-3.0"/>
+            <Region Ref="4" Name="Vertaald door Marre Westerbeek" Start="12.946" Length="02.761" Gain="-4.0"/>
+            <Region Ref="5" Name="Vertaald door Marre Westerbeek" Start="15.707" Length="03.114"/>
+            <Region Ref="6" Name="Vertaald door Marre Westerbeek" Start="18.821" Length="03.443" Gain="-7.0"/>
+            <Region Ref="7" Name="Vertaald door Marre Westerbeek" Start="22.264" Length="03.786" Gain="-3.5"/>
+            <Region Ref="8" Name="Vertaald door Marre Westerbeek" Start="26.050" Length="03.175" Offset="00.001" Gain="-6.4"/>
+            <Region Ref="9" Name="Vertaald door Marre Westerbeek" Start="29.225" Length="03.594" Offset="00.001" Gain="-1.8"/>
+            <Region Ref="10" Name="Vertaald door Marre Westerbeek" Start="32.819" Length="03.415" Gain="-2.9"/>
+            <Region Ref="11" Name="Vertaald door Marre Westerbeek" Start="36.502" Length="03.714" Gain="-2.3"/>
+            <Region Ref="12" Name="Vertaald door Marre Westerbeek" Start="40.216" Length="04.272" Offset="00.001" Gain="-7.1"/>
+            <Region Ref="13" Name="Vertaald door Marre Westerbeek" Start="44.688" Length="03.635" Offset="00.201" Gain="-5.9"/>
+            <Region Ref="14" Name="Vertaald door Marre Westerbeek" Start="48.323" Length="04.725" Gain="-5.7"/>
+            <Region Ref="15" Name="Vertaald door Marre Westerbeek" Start="53.048" Length="03.715" Gain="-6.4"/>
+            <Region Ref="16" Name="Vertaald door Marre Westerbeek" Start="56.763" Length="05.529" Gain="-3.6"/>
+            <Region Ref="17" Name="Vertaald door Marre Westerbeek" Start="01:02.292" Length="03.990" Gain="-6.2"/>
+            <Region Ref="18" Name="Vertaald door Marre Westerbeek" Start="01:06.282" Length="05.071" Gain="-3.3"/>
+            <Region Ref="19" Name="Vertaald door Marre Westerbeek" Start="01:11.353" Length="03.347" Offset="00.005" Gain="-5.6"/>
+            <Region Ref="20" Name="Vertaald door Marre Westerbeek" Start="01:14.700" Length="04.725" Gain="-5.3"/>
+            <Region Ref="21" Name="Vertaald door Marre Westerbeek" Start="01:19.425" Length="03.762" Offset="00.004" Gain="-6.4"/>
+            <Region Ref="22" Name="Vertaald door Marre Westerbeek" Start="01:23.187" Length="04.089" Gain="-7.7"/>
+            <Region Ref="23" Name="Vertaald door Marre Westerbeek" Start="01:27.276" Length="04.424" Gain="-5.8"/>
+            <Region Ref="24" Name="Vertaald door Marre Westerbeek" Start="01:31.700" Length="04.166" Gain="-5.0"/>
+            <Region Ref="25" Name="Vertaald door Marre Westerbeek" Start="01:35.866" Length="04.144" Gain="-4.0"/>
+            <Region Ref="26" Name="Vertaald door Marre Westerbeek" Start="01:40.010" Length="03.655" Offset="00.005" Gain="-5.6"/>
+            <Region Ref="27" Name="Vertaald door Marre Westerbeek" Start="01:43.665" Length="03.800" Offset="00.005" Gain="-4.4"/>
+            <Region Ref="28" Name="Vertaald door Marre Westerbeek" Start="01:47.465" Length="03.510" Gain="-6.3"/>
+            <Region Ref="29" Name="Vertaald door Marre Westerbeek" Start="01:50.975" Length="04.134" Gain="-2.2"/>
+            <Region Ref="30" Name="Vertaald door Marre Westerbeek" Start="01:55.109" Length="05.503" Gain="-5.4"/>
+            <Region Ref="31" Name="Vertaald door Marre Westerbeek" Start="02:00.612" Length="04.902" Gain="-3.6"/>
+            <Region Ref="32" Name="Vertaald door Marre Westerbeek" Start="02:05.514" Length="04.238" Gain="-4.2"/>
+            <Region Ref="33" Name="Vertaald door Marre Westerbeek" Start="02:09.752" Length="04.082" Gain="-5.8"/>
+            <Region Ref="34" Name="Vertaald door Marre Westerbeek" Start="02:13.990" Length="04.608" Offset="00.300" Gain="-5.5"/>
+            <Region Ref="35" Name="Vertaald door Marre Westerbeek" Start="02:19.153" Length="03.610" Offset="00.411" Gain="-7.3"/>
+            <Region Ref="36" Name="Vertaald door Marre Westerbeek" Start="02:22.763" Length="03.935" Gain="-6.2"/>
+            <Region Ref="37" Name="Vertaald door Marre Westerbeek" Start="02:26.698" Length="03.262" Gain="-3.4"/>
+            <Region Ref="38" Name="Vertaald door Marre Westerbeek" Start="02:29.960" Length="02.958" Gain="-5.5"/>
+            <Region Ref="39" Name="Vertaald door Marre Westerbeek" Start="02:32.918" Length="06.016" Gain="-2.7"/>
+            <Region Ref="40" Name="Vertaald door Marre Westerbeek" Start="02:38.934" Length="03.813" Gain="-4.6"/>
+            <Region Ref="41" Name="Vertaald door Marre Westerbeek" Start="02:42.854" Length="04.578" Offset="00.305" Gain="-5.0"/>
+            <Region Ref="42" Name="Vertaald door Marre Westerbeek" Start="02:47.626" Length="03.707" Offset="00.003" Gain="-6.2"/>
+            <Region Ref="43" Name="Vertaald door Marre Westerbeek" Start="02:51.333" Length="05.685" Offset="00.003" Gain="-7.1"/>
+            <Region Ref="44" Name="Vertaald door Marre Westerbeek" Start="02:57.018" Length="03.513" Gain="-5.1"/>
+            <Region Ref="45" Name="Vertaald door Marre Westerbeek" Start="03:00.531" Length="04.367" Offset="00.001" Gain="-5.9"/>
+            <Region Ref="46" Name="Vertaald door Marre Westerbeek" Start="03:04.898" Length="04.046" Gain="-7.5"/>
+            <Region Ref="47" Name="Vertaald door Marre Westerbeek" Start="03:08.944" Length="04.307" Gain="-4.1"/>
+            <Region Ref="48" Name="Vertaald door Marre Westerbeek" Start="03:13.251" Length="06.016" Offset="00.003" Gain="-3.9"/>
+        </Track>
+    </Tracks>
+    <Clipboard>
+        <Group Caption="Groep 1"/>
+        <Group Caption="Groep 2"/>
+        <Group Caption="Groep 3"/>
+        <Group Caption="Groep 4"/>
+    </Clipboard>
+    <Markers>
+        <Marker Id="1" Name="In" Time="02:42.747"/>
+        <Marker Id="2" Name="Uit" Time="02:47.626"/>
+    </Markers>
+    <Document File="Document.xhtml" DocPath="C:\Users\Win10\Desktop\allerlaaste\gedicht_Robert_Frost_Mending_Wall_NL_vertaling Files/Document.xhtml"/>
+    <TextItems>
+        <TextItem Name="H1" State="1">
+            <h1>Header 1</h1>
+        </TextItem>
+        <TextItem Name="H2" State="1">
+            <h2>Header 2</h2>
+        </TextItem>
+        <TextItem Name="H3" State="1">
+            <h3>Header 3</h3>
+        </TextItem>
+        <TextItem Name="H4">
+            <h4>Header 4</h4>
+        </TextItem>
+        <TextItem Name="H5">
+            <h5>Header 5</h5>
+        </TextItem>
+        <TextItem Name="H6">
+            <h6>Header 6</h6>
+        </TextItem>
+        <TextItem Name="P" State="1">
+            <p>...</p>
+        </TextItem>
+        <TextItem Name="Page" State="1">
+            <span class="pagenum">#</span>
+        </TextItem>
+    </TextItems>
+    <NavPoints>
+        <NavPoint Id="hix00051" Begin="00.000"/>
+        <NavPoint Id="hix00002" Begin="03.597"/>
+        <NavPoint Id="hix00003" Begin="09.200"/>
+        <NavPoint Id="hix00004" Begin="12.946"/>
+        <NavPoint Id="hix00005" Begin="15.707"/>
+        <NavPoint Id="hix00006" Begin="18.821"/>
+        <NavPoint Id="hix00007" Begin="22.264"/>
+        <NavPoint Id="hix00008" Begin="26.050"/>
+        <NavPoint Id="hix00009" Begin="29.225"/>
+        <NavPoint Id="hix00010" Begin="32.819"/>
+        <NavPoint Id="hix00011" Begin="36.502"/>
+        <NavPoint Id="hix00012" Begin="40.216"/>
+        <NavPoint Id="hix00013" Begin="44.488"/>
+        <NavPoint Id="hix00014" Begin="48.323"/>
+        <NavPoint Id="hix00015" Begin="53.048"/>
+        <NavPoint Id="hix00016" Begin="56.763"/>
+        <NavPoint Id="hix00017" Begin="01:02.292"/>
+        <NavPoint Id="hix00018" Begin="01:06.282"/>
+        <NavPoint Id="hix00019" Begin="01:11.353"/>
+        <NavPoint Id="hix00020" Begin="01:14.700"/>
+        <NavPoint Id="hix00021" Begin="01:19.425"/>
+        <NavPoint Id="hix00022" Begin="01:23.187"/>
+        <NavPoint Id="hix00023" Begin="01:27.276"/>
+        <NavPoint Id="hix00024" Begin="01:31.700"/>
+        <NavPoint Id="hix00025" Begin="01:35.866"/>
+        <NavPoint Id="hix00026" Begin="01:40.010"/>
+        <NavPoint Id="hix00027" Begin="01:43.665"/>
+        <NavPoint Id="hix00028" Begin="01:47.465"/>
+        <NavPoint Id="hix00029" Begin="01:50.975"/>
+        <NavPoint Id="hix00030" Begin="01:55.109"/>
+        <NavPoint Id="hix00031" Begin="02:00.612"/>
+        <NavPoint Id="hix00032" Begin="02:05.514"/>
+        <NavPoint Id="hix00033" Begin="02:09.752"/>
+        <NavPoint Id="hix00034" Begin="02:13.834"/>
+        <NavPoint Id="hix00035" Begin="02:18.742"/>
+        <NavPoint Id="hix00036" Begin="02:22.763"/>
+        <NavPoint Id="hix00037" Begin="02:26.698"/>
+        <NavPoint Id="hix00038" Begin="02:29.960"/>
+        <NavPoint Id="hix00039" Begin="02:32.918"/>
+        <NavPoint Id="hix00040" Begin="02:38.934"/>
+        <NavPoint Id="hix00041" Begin="02:42.747"/>
+        <NavPoint Id="hix00042" Begin="02:47.626"/>
+        <NavPoint Id="hix00043" Begin="02:51.333"/>
+        <NavPoint Id="hix00044" Begin="02:57.018"/>
+        <NavPoint Id="hix00045" Begin="03:00.531"/>
+        <NavPoint Id="hix00046" Begin="03:04.898"/>
+        <NavPoint Id="hix00047" Begin="03:08.944"/>
+        <NavPoint Id="hix00048" Begin="03:13.251" End="03:19.267"/>
+    </NavPoints>
+</Session>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Narrator Studio 1.60.2512" Samplerate="44100" Time="43.966">
+    <Info Modified="2024-03-26T08:34:13Z" Source="The Word document was used as the source for page numbers." OriginalPath="C:\Users\Win10\Desktop\map voor git hub deliverables\1. epubs kaal\EN origineel\robert-frost_north-of-boston to send.epub" Title="Mending Wall" Date="2024-03-05" BaseFile="0ae7e8-bb36-4b24-a0f2-047dbc06aa57" Language="en-us" Creator="Marre" MultimediaType="audioFullText" Format="application/epub+zip" Identifier="urn:uuid:dd0ae7e8-bb36-4b24-a0f2-047dbc06aa57"/>
+    <AudioPool Path="robert-frost_north-of-boston to send Ai Files" Location="C:\Users\Win10\Desktop\map voor git hub deliverables\2. epubs met audio\AI stem elvenlabs\hindenburg met AI audio">
+        <File Id="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1^.wav" Duration="02:25.699" Leq="-32.9" Dyn="0.49">
+            <File.CuePoints/>
+            <MetaData OriginalPath="C:\Users\Win10\Desktop\ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2.mp3"/>
+        </File>
+    </AudioPool>
+    <Tracks>
+        <Track Name="Narration" Rec="1">
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="00.400" Length="02.800" Offset="00.400" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="03.200" Length="03.200" Offset="03.200" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="06.400" Length="02.537" Offset="06.400" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="08.937" Length="02.004" Offset="08.937" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="10.941" Length="02.496" Offset="10.941" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="13.437" Length="03.329" Offset="13.437" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="16.766" Length="02.786" Offset="16.766" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="19.552" Length="02.609" Offset="19.552" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="22.161" Length="03.300" Offset="22.161" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="25.461" Length="02.948" Offset="25.461" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="28.409" Length="03.643" Offset="28.409" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="32.052" Length="03.673" Offset="32.052" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="35.725" Length="03.885" Offset="35.725" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="39.610" Length="03.169" Offset="39.610" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="42.779" Length="03.439" Offset="42.779" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="46.218" Length="03.188" Offset="46.218" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="49.406" Length="02.822" Offset="49.406" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="52.228" Length="03.007" Offset="52.228" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="55.235" Length="03.364" Offset="55.235" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="58.599" Length="02.516" Offset="58.599" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:01.115" Length="02.672" Offset="01:01.115" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:03.787" Length="03.250" Offset="01:03.787" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:07.037" Length="02.463" Offset="01:07.037" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:09.500" Length="02.445" Offset="01:09.500" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:11.945" Length="03.051" Offset="01:11.945" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:14.996" Length="03.300" Offset="01:14.996" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:18.296" Length="02.604" Offset="01:18.296" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:20.900" Length="02.494" Offset="01:20.900" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:23.394" Length="04.049" Offset="01:23.394" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:27.443" Length="03.916" Offset="01:27.443" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:31.359" Length="02.432" Offset="01:31.359" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:33.791" Length="03.043" Offset="01:33.791" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:36.834" Length="03.703" Offset="01:36.834" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:40.537" Length="03.307" Offset="01:40.537" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:43.844" Length="02.562" Offset="01:43.844" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:46.406" Length="02.688" Offset="01:46.406" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:49.094" Length="02.871" Offset="01:49.094" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:51.965" Length="04.710" Offset="01:51.965" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:56.675" Length="03.163" Offset="01:56.675" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="01:59.838" Length="03.187" Offset="01:59.838" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="02:03.025" Length="02.337" Offset="02:03.025" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="02:05.362" Length="03.677" Offset="02:05.362" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="02:09.039" Length="03.011" Offset="02:09.039" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="02:12.050" Length="02.444" Offset="02:12.050" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="02:14.494" Length="03.123" Offset="02:14.494" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="02:17.617" Length="03.319" Offset="02:17.617" Gain="11.9"/>
+            <Region Ref="1" Name="ElevenLabs_2024-04-02T09_31_19_Marre W._pvc_s50_sb75_t2-1" Start="02:20.936" Length="05.087" Offset="02:20.936" Gain="11.9"/>
+        </Track>
+    </Tracks>
+    <Clipboard>
+        <Group Caption="Groep 1"/>
+        <Group Caption="Groep 2"/>
+        <Group Caption="Groep 3"/>
+        <Group Caption="Groep 4"/>
+    </Clipboard>
+    <Markers>
+        <Marker Id="1" Name="In" Time="02:39.071"/>
+        <Marker Id="2" Name="Uit" Time="02:39.275"/>
+    </Markers>
+    <Document File="Document.xhtml" DocPath="C:\Users\Win10\Desktop\map voor git hub deliverables\1. epubs kaal\EN origineel\robert-frost_north-of-boston to send.epub"/>
+    <TextItems>
+        <TextItem Name="H1" State="1">
+            <h1>Header 1</h1>
+        </TextItem>
+        <TextItem Name="H2" State="1">
+            <h2>Header 2</h2>
+        </TextItem>
+        <TextItem Name="H3" State="1">
+            <h3>Header 3</h3>
+        </TextItem>
+        <TextItem Name="H4">
+            <h4>Header 4</h4>
+        </TextItem>
+        <TextItem Name="H5">
+            <h5>Header 5</h5>
+        </TextItem>
+        <TextItem Name="H6">
+            <h6>Header 6</h6>
+        </TextItem>
+        <TextItem Name="P" State="1">
+            <p>...</p>
+        </TextItem>
+        <TextItem Name="Page" State="1">
+            <span class="pagenum">#</span>
+        </TextItem>
+    </TextItems>
+    <NavPoints>
+        <NavPoint Id="hix00048" Begin="00.400"/>
+        <NavPoint Id="hix00051" Begin="03.200"/>
+        <NavPoint Id="hix00003" Begin="06.616"/>
+        <NavPoint Id="hix00004" Begin="08.906"/>
+        <NavPoint Id="hix00005" Begin="10.968"/>
+        <NavPoint Id="hix00006" Begin="13.372"/>
+        <NavPoint Id="hix00007" Begin="16.776"/>
+        <NavPoint Id="hix00008" Begin="19.550"/>
+        <NavPoint Id="hix00009" Begin="22.116"/>
+        <NavPoint Id="hix00010" Begin="25.458"/>
+        <NavPoint Id="hix00011" Begin="28.402"/>
+        <NavPoint Id="hix00012" Begin="32.072"/>
+        <NavPoint Id="hix00013" Begin="35.667"/>
+        <NavPoint Id="hix00014" Begin="39.585"/>
+        <NavPoint Id="hix00015" Begin="42.774"/>
+        <NavPoint Id="hix00016" Begin="46.166"/>
+        <NavPoint Id="hix00017" Begin="49.373"/>
+        <NavPoint Id="hix00018" Begin="52.255"/>
+        <NavPoint Id="hix00019" Begin="55.226"/>
+        <NavPoint Id="hix00020" Begin="58.614"/>
+        <NavPoint Id="hix00021" Begin="01:01.110"/>
+        <NavPoint Id="hix00022" Begin="01:03.821"/>
+        <NavPoint Id="hix00023" Begin="01:07.104"/>
+        <NavPoint Id="hix00024" Begin="01:09.522"/>
+        <NavPoint Id="hix00025" Begin="01:11.932"/>
+        <NavPoint Id="hix00026" Begin="01:15.074"/>
+        <NavPoint Id="hix00027" Begin="01:18.400"/>
+        <NavPoint Id="hix00028" Begin="01:20.935"/>
+        <NavPoint Id="hix00029" Begin="01:23.404"/>
+        <NavPoint Id="hix00030" Begin="01:27.520"/>
+        <NavPoint Id="hix00031" Begin="01:31.304"/>
+        <NavPoint Id="hix00032" Begin="01:33.882"/>
+        <NavPoint Id="hix00033" Begin="01:36.844"/>
+        <NavPoint Id="hix00034" Begin="01:40.425"/>
+        <NavPoint Id="hix00035" Begin="01:43.908"/>
+        <NavPoint Id="hix00036" Begin="01:46.405"/>
+        <NavPoint Id="hix00037" Begin="01:49.023"/>
+        <NavPoint Id="hix00038" Begin="01:51.930"/>
+        <NavPoint Id="hix00039" Begin="01:56.740"/>
+        <NavPoint Id="hix00040" Begin="01:59.840"/>
+        <NavPoint Id="hix00041" Begin="02:02.963"/>
+        <NavPoint Id="hix00042" Begin="02:05.355"/>
+        <NavPoint Id="hix00043" Begin="02:08.974"/>
+        <NavPoint Id="hix00044" Begin="02:12.058"/>
+        <NavPoint Id="hix00045" Begin="02:14.389"/>
+        <NavPoint Id="hix00046" Begin="02:17.554"/>
+        <NavPoint Id="hix00047" Begin="02:21.120" End="02:21.120"/>
+    </NavPoints>
+</Session>
